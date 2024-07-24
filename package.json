@@ -1,0 +1,16 @@
+{
+  "name": "kazantip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislavt/kazantip.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stanislav Tarasenko <stanislaw.tarasenko@gmail.com>",
+  "license": "MIT"
+}
